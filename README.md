@@ -2,7 +2,11 @@
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Full Stack Development.
 - 💞️ I’m looking to collaborate on repository.
-- 📫 How to reach me ...
+- 🚀 Full-Stack Developer | 🌐 Web Enthusiast | 📱 Mobile App Dev
+-🔧 Currently, I'm diving deep into Full Stack Web Development.
+-🌟 Always open to collaboration and new opportunities!
+
+
 
 <!---
 ShariqAwaan/ShariqAwaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
